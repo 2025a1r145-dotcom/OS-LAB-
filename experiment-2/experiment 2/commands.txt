@@ -1,8 +1,8 @@
-EXPERIMENT 02: BASIC BASH/SHELL COMMANDS IN UBUNTU LINUX
+EXPERIMENT 02: EXECUTION OF BASIC BASH/SHELL COMMANDS IN UBUNTU LINUX
 
 AIM
 
-To understand and practise basic Bash/Shell commands in Ubuntu Linux for navigating the file system, managing files and directories, viewing text, and checking system information.
+To learn and execute basic Bash/Shell commands in Ubuntu Linux for directory navigation, file and folder management, text-file operations, and process inspection.
 
 REQUIREMENTS
 
@@ -10,76 +10,76 @@ REQUIREMENTS
 2. Bash Shell
 3. Terminal application
 
-COMMANDS AND THEIR USES
+COMMANDS AND THEIR PURPOSES
 
 1. Present Working Directory
 Command: pwd
-Purpose: Displays the complete path of the current working directory.
+Purpose: Displays the full path of the directory currently being used.
 
-2. List Directory Contents
-Command: ls
-Purpose: Shows the files and folders present in the current directory.
-
-3. Detailed File Listing
-Command: ls -l
-Purpose: Displays file and directory details, including permissions, ownership, size, and modification time.
-
-4. Change Directory
+2. Change Directory
 Command: cd Documents
-Purpose: Moves the terminal to the Documents directory if it exists at the current location.
+Purpose: Changes the current directory to Documents if it exists in the current location.
 
-5. Create a Directory
+3. Remove an Empty Directory
+Command: rmdir emptydir
+Purpose: Deletes an empty directory named emptydir.
+
+4. Create a Directory
 Command: mkdir OS_Practical
-Purpose: Creates a new directory named OS_Practical.
+Purpose: Creates a new directory called OS_Practical.
 
-6. Create an Empty File
+5. List Files and Directories
+Command: ls
+Purpose: Displays the files and folders available in the current directory.
+
+6. Create a File
 Command: touch notes.txt
-Purpose: Creates an empty file called notes.txt if it does not already exist.
+Purpose: Creates an empty file named notes.txt if it does not already exist.
 
-7. View File Contents
+7. Copy a File
+Command: cp notes.txt backup.txt
+Purpose: Creates a duplicate of notes.txt named backup.txt.
+
+8. Move or Rename a File
+Command: mv notes.txt new_notes.txt
+Purpose: Renames notes.txt to new_notes.txt or moves a file to another location.
+
+9. Delete a File
+Command: rm backup.txt
+Purpose: Removes the file named backup.txt. This command should be used carefully.
+
+10. Display File Contents
 Command: cat notes.txt
 Purpose: Prints the contents of notes.txt in the terminal.
 
-8. Copy a File
-Command: cp notes.txt backup.txt
-Purpose: Creates a duplicate of notes.txt with the name backup.txt.
+11. Display the Beginning of a File
+Command: head notes.txt
+Purpose: Shows the first ten lines of notes.txt by default.
 
-9. Rename a File
-Command: mv notes.txt new_notes.txt
-Purpose: Changes the filename from notes.txt to new_notes.txt.
+12. Display the End of a File
+Command: tail notes.txt
+Purpose: Shows the last ten lines of notes.txt by default.
 
-10. Delete a File
-Command: rm backup.txt
-Purpose: Removes backup.txt from the current directory. Use this command carefully.
+13. Clear the Terminal Screen
+Command: clear
+Purpose: Clears the visible terminal screen.
 
-11. Display Date and Time
-Command: date
-Purpose: Shows the current system date and time.
-
-12. Find the Current Username
-Command: whoami
-Purpose: Displays the username of the currently logged-in account.
-
-13. Check File Permissions
-Command: ls -l
-Purpose: Shows permissions, ownership, file size, and modification details for files and directories.
-
-14. Open Command Manual
-Command: man ls
-Purpose: Displays the manual for the ls command. Press q to exit the manual.
+14. View Running Processes
+Command: ps
+Purpose: Displays information about processes associated with the current terminal session.
 
 PROCEDURE
 
-1. Start the Ubuntu Terminal.
-2. Enter the listed commands one at a time.
-3. Observe and understand the output produced by each command.
-4. Practise navigating directories and creating, copying, renaming, and deleting files.
-5. Record the command outputs and capture screenshots for the practical submission.
+1. Open the Ubuntu Terminal.
+2. Type and execute each command individually.
+3. Observe the output produced by every command.
+4. Practise creating directories and files, copying and renaming files, displaying file contents, and removing files or empty directories.
+5. Capture screenshots of the terminal execution and save them for the practical record.
 
 EXPECTED OUTPUT
 
-The commands display directory paths and listings, perform basic file operations, show text stored in files, and provide system date, user, and file-permission information.
+The commands display the current directory, navigate between folders, create and remove directories, list files, perform file operations, display text, clear the terminal, and show process information.
 
 RESULT
 
-The basic Bash/Shell commands for directory navigation, file and directory management, text viewing, and system information were executed and studied successfully.
+The specified Bash/Shell commands were studied and executed to understand basic file-system operations and process management in Ubuntu Linux.
