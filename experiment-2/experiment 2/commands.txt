@@ -1,1 +1,85 @@
+EXPERIMENT 02: BASIC BASH/SHELL COMMANDS IN UBUNTU LINUX
 
+AIM
+
+To understand and practise basic Bash/Shell commands in Ubuntu Linux for navigating the file system, managing files and directories, viewing text, and checking system information.
+
+REQUIREMENTS
+
+1. Ubuntu Linux operating system
+2. Bash Shell
+3. Terminal application
+
+COMMANDS AND THEIR USES
+
+1. Present Working Directory
+Command: pwd
+Purpose: Displays the complete path of the current working directory.
+
+2. List Directory Contents
+Command: ls
+Purpose: Shows the files and folders present in the current directory.
+
+3. Detailed File Listing
+Command: ls -l
+Purpose: Displays file and directory details, including permissions, ownership, size, and modification time.
+
+4. Change Directory
+Command: cd Documents
+Purpose: Moves the terminal to the Documents directory if it exists at the current location.
+
+5. Create a Directory
+Command: mkdir OS_Practical
+Purpose: Creates a new directory named OS_Practical.
+
+6. Create an Empty File
+Command: touch notes.txt
+Purpose: Creates an empty file called notes.txt if it does not already exist.
+
+7. View File Contents
+Command: cat notes.txt
+Purpose: Prints the contents of notes.txt in the terminal.
+
+8. Copy a File
+Command: cp notes.txt backup.txt
+Purpose: Creates a duplicate of notes.txt with the name backup.txt.
+
+9. Rename a File
+Command: mv notes.txt new_notes.txt
+Purpose: Changes the filename from notes.txt to new_notes.txt.
+
+10. Delete a File
+Command: rm backup.txt
+Purpose: Removes backup.txt from the current directory. Use this command carefully.
+
+11. Display Date and Time
+Command: date
+Purpose: Shows the current system date and time.
+
+12. Find the Current Username
+Command: whoami
+Purpose: Displays the username of the currently logged-in account.
+
+13. Check File Permissions
+Command: ls -l
+Purpose: Shows permissions, ownership, file size, and modification details for files and directories.
+
+14. Open Command Manual
+Command: man ls
+Purpose: Displays the manual for the ls command. Press q to exit the manual.
+
+PROCEDURE
+
+1. Start the Ubuntu Terminal.
+2. Enter the listed commands one at a time.
+3. Observe and understand the output produced by each command.
+4. Practise navigating directories and creating, copying, renaming, and deleting files.
+5. Record the command outputs and capture screenshots for the practical submission.
+
+EXPECTED OUTPUT
+
+The commands display directory paths and listings, perform basic file operations, show text stored in files, and provide system date, user, and file-permission information.
+
+RESULT
+
+The basic Bash/Shell commands for directory navigation, file and directory management, text viewing, and system information were executed and studied successfully.
