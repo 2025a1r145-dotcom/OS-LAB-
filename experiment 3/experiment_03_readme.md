@@ -1,3 +1,5 @@
+<img width="831" height="397" alt="Screenshot 2026-11-16 at 10 47 21 PM" src="https://github.com/user-attachments/assets/e9da481c-845d-426a-a9ca-919227a9fb63" />
+<img width="1286" height="779" alt="Screenshot 2026-11-16 at 10 32 47 PM" src="https://github.com/user-attachments/assets/62333779-0abe-4b94-b8ec-3d714d67e023" />
 # Experiment 03: I/O Redirection, Pipes, and `sed` Commands
 
 ## Aim
