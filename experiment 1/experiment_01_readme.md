@@ -1,3 +1,10 @@
+<img width="1179" height="582" alt="Screenshot 2026-11-16 at 10 26 06 PM" src="https://github.com/user-attachments/assets/0fc61003-612c-457f-b4be-739cb08468bb" />
+<img width="1127" height="562" alt="Screenshot 2026-11-16 at 10 26 02 PM" src="https://github.com/user-attachments/assets/3ce9d31f-ddad-4b6f-a413-71abf77cfe25" />
+<img width="1095" height="535" alt="Screenshot 2026-11-16 at 10 25 56 PM" src="https://github.com/user-attachments/assets/11972e8f-cbf3-4cb7-9323-21cfaf31d415" />
+<img width="1242" height="581" alt="Screenshot 2026-11-16 at 10 25 50 PM" src="https://github.com/user-attachments/assets/9d4b1f9d-ce3b-4201-b499-310610f98e8a" />
+<img width="1110" height="536" alt="Screenshot 2026-11-16 at 10 25 45 PM" src="https://github.com/user-attachments/assets/741cf86a-a33d-4662-8479-edc7aecad01d" />
+<img width="1455" height="550" alt="Screenshot 2026-11-16 at 10 25 36 PM" src="https://github.com/user-attachments/assets/8fdff3b2-e5b3-4a33-bf64-bdea22f19678" />
+<img width="1125" height="559" alt="Screenshot 2026-11-16 at 10 25 30 PM" src="https://github.com/user-attachments/assets/6edfca3d-1fba-4f8d-b029-c81e3b73e5d4" />
 # Experiment 01: Installation and Configuration of Oracle VirtualBox and Ubuntu Linux
 
 ## Aim
