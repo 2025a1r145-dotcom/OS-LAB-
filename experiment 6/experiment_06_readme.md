@@ -1,3 +1,4 @@
+<img width="1295" height="1002" alt="Screenshot 2026-11-20 at 9 55 26 AM" src="https://github.com/user-attachments/assets/22e425c3-9866-4720-843b-020b0290c8ad" />
 # Experiment 06: User Information, Line Extraction, and Text Processing in Linux
 
 ## Aim
