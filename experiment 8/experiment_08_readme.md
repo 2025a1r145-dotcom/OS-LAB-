@@ -1,3 +1,4 @@
+<img width="958" height="826" alt="Screenshot 2026-11-19 at 10 30 24 PM" src="https://github.com/user-attachments/assets/5c99db8f-289b-4c77-b0c7-353b66581687" />
 # Experiment 08: Memory Allocation and Memory Usage in C
 
 ## Aim
